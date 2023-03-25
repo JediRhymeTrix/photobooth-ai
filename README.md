@@ -25,7 +25,7 @@ We train the model on the preprocessed data and evaluate its performance on the 
 To get started with the project, clone this repository to your local machine:
 
 ```bash
-git clone <https://github.com/your-username/photobooth-ai.git>
+git clone https://github.com/your-username/photobooth-ai.git
 ```
 
 Then install the required packages:
